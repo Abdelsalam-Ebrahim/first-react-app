@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/first-react-app/static/css/main.00565290.css",
-    "main.js": "/first-react-app/static/js/main.f11f240b.js",
+    "main.js": "/first-react-app/static/js/main.a2b31215.js",
     "static/js/453.bf170949.chunk.js": "/first-react-app/static/js/453.bf170949.chunk.js",
     "static/media/fa-solid-900.ttf": "/first-react-app/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/04.jpg": "/first-react-app/static/media/04.a57585a93b85f486c36f.jpg",
@@ -19,11 +19,11 @@
     "static/media/fa-v4compatibility.woff2": "/first-react-app/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/first-react-app/index.html",
     "main.00565290.css.map": "/first-react-app/static/css/main.00565290.css.map",
-    "main.f11f240b.js.map": "/first-react-app/static/js/main.f11f240b.js.map",
+    "main.a2b31215.js.map": "/first-react-app/static/js/main.a2b31215.js.map",
     "453.bf170949.chunk.js.map": "/first-react-app/static/js/453.bf170949.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00565290.css",
-    "static/js/main.f11f240b.js"
+    "static/js/main.a2b31215.js"
   ]
 }
