@@ -1,0 +1,37 @@
+.about {
+    background-color: #1abc9c;
+}
+section .icon {
+    position: relative;
+}
+section .icon::before {
+    content: "";
+    width: 10%;
+    height: 3px;
+    background-color: white;
+    position: absolute;
+    left: 53%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+section .icon::after {
+    content: "";
+    width: 10%;
+    height: 3px;
+    background-color: white;
+    position: absolute;
+    right: 53%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+@media (max-width: 556px) {
+    section .icon::before {
+        width: 18%;
+        left: 56%;
+    }
+    section .icon::after {
+        width: 18%;
+        right: 56%;
+    }
+}

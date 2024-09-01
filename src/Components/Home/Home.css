@@ -1,0 +1,29 @@
+header {
+    background-color: #1abc9c;
+}
+header img {
+    border-radius: 50%;
+}
+header .icon {
+    position: relative;
+}
+header .icon::before {
+    content: "";
+    width: 20%;
+    height: 3px;
+    background-color: white;
+    position: absolute;
+    left: 58%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+header .icon::after {
+    content: "";
+    width: 20%;
+    height: 3px;
+    background-color: white;
+    position: absolute;
+    right: 58%;
+    top: 50%;
+    transform: translateY(-50%);
+}
